@@ -30,7 +30,7 @@ void size() {
 }
 
 void peek() {
-	cout << stack[ptr] << endl;
+	cout << stack[ptr2] << endl;
 }
 
 int main() {
